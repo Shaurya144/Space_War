@@ -3,6 +3,8 @@ import os
 import random
 pygame.font.init()
 
+# This was all made possible by following along with a game tutorial and understanding as I went along
+
 WIDTH, HEIGHT = 750, 750
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Space Invasion")
